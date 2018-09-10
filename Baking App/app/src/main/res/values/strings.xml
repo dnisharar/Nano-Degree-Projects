@@ -1,3 +1,30 @@
+<!--
+ * Copyright (C) 2018 Madonah Syombua
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *-->
 <resources>
     <string name="app_name">Baking App</string>
+    <string name="servings">Servings: %d</string>
+    <string name="recipe_image">Recipe image</string>
+    <string name="data_not_available">Data not Available.</string>
+    <string name="title_recipe_step_detail">Recipe Step Detail</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="step">Steps %d</string>
+    <string name="widget_recipe_key">widget_recipe_key</string>
+    <string name="add_to_widget_fab_label">Add To Widget</string>
+    <string name="options_fab_label">Options</string>
+    <string name="cake_display">Cake Display</string>
+    <string name="number">01.</string>
+    <string name="intro">Intro</string>
 </resources>
